@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         var a = "shakib";
-        var b = "shakib";
+        var b = "jisan";
         String[] arr={"Jisan", "Jisan", "Jisan"};
         for(int i=0; i< arr.length; i++){
             System.out.println(arr[i]);
